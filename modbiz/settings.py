@@ -146,7 +146,7 @@ INSTALLED_APPS = (
     'djangocms_video',
     'reversion',
     'modbiz',
-    #'aldryn_style'
+    'aldryn_style'
 )
 
 LANGUAGES = (
