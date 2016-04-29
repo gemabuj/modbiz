@@ -192,6 +192,7 @@ CMS_TEMPLATES = (
     ## Customize this
     ('fullwidth.html', 'Fullwidth'),
     ('home.html', 'Home'),
+    ('portfolio-1-col.html', 'Portfolio 1 Column'),
 )
 
 CMS_PERMISSION = True
