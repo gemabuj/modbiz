@@ -136,7 +136,6 @@ INSTALLED_APPS = (
     'sekizai',
     'treebeard',
     'djangocms_text_ckeditor',
-    'djangocms_style',
     'djangocms_column',
     'djangocms_file',
     'djangocms_googlemap',
@@ -147,7 +146,7 @@ INSTALLED_APPS = (
     'djangocms_video',
     'reversion',
     'modbiz',
-    'aldryn_style'
+    #'aldryn_style'
 )
 
 LANGUAGES = (
