@@ -194,6 +194,7 @@ CMS_TEMPLATES = (
     ('home.html', 'Home'),
     ('portfolio-1-col.html', 'Portfolio 1 Column'),
     ('blog-home-2.html', 'Blog Home Type 2'),
+    ('404.html', 'Page 404'),
 )
 
 CMS_PERMISSION = True
