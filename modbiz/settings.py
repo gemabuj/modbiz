@@ -197,6 +197,8 @@ CMS_TEMPLATES = (
     ('blog-home-2.html', 'Blog Home Type 2'),
     ('404.html', 'Page 404'),
     ('about.html', 'About'),
+    ('contact.html', 'Contact'),
+    ('faq.html', 'Frequently Asked Questions'),
 )
 
 CMS_PERMISSION = True
