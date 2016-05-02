@@ -193,6 +193,7 @@ CMS_TEMPLATES = (
     ('fullwidth.html', 'Fullwidth'),
     ('home.html', 'Home'),
     ('portfolio-1-col.html', 'Portfolio 1 Column'),
+    ('portfolio-2-col.html', 'Portfolio 2 Column'),
     ('blog-home-1.html', 'Blog Home Type 1'),
     ('blog-home-2.html', 'Blog Home Type 2'),
     ('404.html', 'Page 404'),
